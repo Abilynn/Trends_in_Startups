@@ -17,3 +17,5 @@ I would be answering the following business questions to gain insights:
 10. Filter the result to only include categories that have more than three companies in them. What are the most competitive markets?
 11. What is the average size of a startup in each location?
 12. What is the average size of a startup in each location, with average sizes above 500?
+
+### Analysis was carried out with Postgresql
